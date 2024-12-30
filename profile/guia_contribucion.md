@@ -1,29 +1,31 @@
 # Directrices de Contribución
 
-Gracias por tu interés en contribuir a los repositorios de **Estandares-SFA**. Estas directrices te ayudarán a comprender cómo colaborar de manera eficiente y uniforme.
+Se agradece su interés en contribuir a los repositorios de **Estándares-SFA**. Estas directrices están diseñadas para proporcionar claridad sobre cómo colaborar de manera eficiente y uniforme.
 
 ## Lineamientos para Diagramas
-Todos los diagramas deben cumplir con los siguientes requerimientos:
+Todos los diagramas deben cumplir con los siguientes requisitos:
 
 1. **Plataformas Admitidas**:
-   - Diagramas en **PlantUML** y **Mermaid**.
+   - Los diagramas deben estar disponibles en **PlantUML** y **Mermaid**.
 
 2. **Estructura del Repositorio**:
-   - Cada diagrama debe tener su propio repositorio.
-   - Incluir:
+   - Cada diagrama deberá contar con su propio repositorio.
+   - Debe incluir:
      - Un archivo `.puml` o `.iuml` (PlantUML).
-     - Un archivo `.md` con el código equivalente en Mermaid.
+     - Un archivo `.md` que contenga el código equivalente en Mermaid.
 
 3. **Reglas de Creación**:
    - Los diagramas deben ser idénticos en ambas plataformas.
-   - Utiliza **Mermaid** para facilitar la visualización en GitHub.
-   - Las versiones de **PlantUML** serán utilizadas para la página de documentación oficial.
+   - Se recomienda utilizar **Mermaid** para facilitar la visualización en GitHub.
+   - Las versiones en **PlantUML** serán empleadas para la página oficial de documentación.
 
 4. **Formato de Archivos**:
-   - **PlantUML**: Guardar los diagramas en formato `.puml`.
-   - **Mermaid**: Incluir el código en un archivo `.md` usando el bloque de código ```mermaid.
+   - **PlantUML**: Los diagramas deben ser guardados en archivos con extensión `.puml`.
+   - **Mermaid**: El código correspondiente debe incluirse en un archivo `.md` utilizando un bloque de código ```mermaid.
 
 5. **Nombres de Archivos**:
-   - Usa nombres descriptivos y consistentes para los archivos.
+   - Es necesario utilizar nombres descriptivos y consistentes para los archivos.
      - Ejemplo: `diagrama-flujo.puml` y `diagrama-flujo.md`.
-6. Puedes ver un ejemplo aqui ["Diagrama Secuencia OAuth 2.0 - Authorizacion Code Grant"](https://github.com/estandares-sfa/diagrama-auth-code-grant) 
+
+6. **Ejemplo**:
+   - Puede consultar un ejemplo en el siguiente enlace: ["Diagrama Secuencia OAuth 2.0 - Authorization Code Grant"](https://github.com/estandares-sfa/diagrama-auth-code-grant).
