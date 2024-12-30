@@ -25,7 +25,7 @@ Todos los diagramas deben cumplir con los siguientes requisitos:
 
 5. **Nombres de Archivos**:
    - Es necesario utilizar nombres descriptivos y consistentes para los archivos.
-     - Ejemplo: `diagrama-flujo.puml` y `diagrama-flujo.md`.
+     - Ejemplo: `diagrama-{nombre-flujo}.puml` y `README.md`.
 
 6. **Ejemplo**:
    - Puede consultar un ejemplo en el siguiente enlace: ["Diagrama Secuencia OAuth 2.0 - Authorization Code Grant"](https://github.com/estandares-sfa/diagrama-auth-code-grant).
