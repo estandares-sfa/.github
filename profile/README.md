@@ -1,28 +1,18 @@
-## Estandares SFA
+## Estándares SFA
 
-Esta organizacion busca generar y mantener documentacion sobre el sistema de finanzas abiertas.
+La organización **Estándares SFA** tiene como propósito desarrollar y mantener documentación sobre el sistema de finanzas abiertas.
 
-## Como Contribuir
+## Cómo Contribuir
 
-Invitamos a todos los interesados a contribuir al trabajo de Estandares-SFA. Para participar:
+Se invita a todas las personas interesadas a colaborar con el trabajo de **Estándares SFA**. Para participar, se deben seguir los pasos descritos a continuación:
 
-1. Lee las [Directrices de Contribución](https://github.com/estandares-sfa/.github/blob/main/profile/guia_contribucion.md).
+1. Consultar las [Directrices de Contribución](https://github.com/estandares-sfa/.github/blob/main/profile/guia_contribucion.md).
 
-2. Revisa los problemas abiertos ("issues") y elige uno en el que quieras trabajar.
+2. Revisar los problemas abiertos ("issues") y seleccionar uno para trabajar en él.
 
-3. Realiza un "fork" del repositorio y crea una rama para tu contribución.
+3. Realizar un "fork" del repositorio y crear una rama específica para la contribución.
 
-4. Envía un "pull request" con una descripción clara de tus cambios.
+4. Enviar un "pull request" que incluya una descripción detallada de los cambios realizados.
 
-5. Participa en las discusiones y responde a los comentarios.
+5. Participar activamente en las discusiones y responder a los comentarios realizados durante la revisión.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
