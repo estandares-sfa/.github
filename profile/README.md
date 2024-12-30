@@ -6,7 +6,7 @@ Esta organizacion busca generar y mantener documentacion sobre el sistema de fin
 
 Invitamos a todos los interesados a contribuir al trabajo de Estandares-SFA. Para participar:
 
-1. Lee las Directrices de Contribución.
+1. Lee las [Directrices de Contribución](https://github.com/estandares-sfa/.github/blob/main/profile/guia_contribucion.md).
 
 2. Revisa los problemas abiertos ("issues") y elige uno en el que quieras trabajar.
 
