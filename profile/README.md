@@ -2,6 +2,10 @@
 
 La organización **Estándares SFA** tiene como propósito desarrollar y mantener documentación sobre el sistema de finanzas abiertas.
 
+## Gobernanza
+
+Por definir
+
 ## Cómo Contribuir
 
 Se invita a todas las personas interesadas a colaborar con el trabajo de **Estándares SFA**. Para participar, se deben seguir los pasos descritos a continuación:
