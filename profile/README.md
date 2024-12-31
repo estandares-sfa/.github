@@ -6,6 +6,10 @@ La organización **Estándares SFA** tiene como propósito desarrollar y mantene
 
 Por definir
 
+- Equipos
+- Quien Revisa
+- Quien Aprueba
+
 ## Cómo Contribuir
 
 Se invita a todas las personas interesadas a colaborar con el trabajo de **Estándares SFA**. Para participar, se deben seguir los pasos descritos a continuación:
