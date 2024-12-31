@@ -17,7 +17,6 @@ Todos los diagramas deben cumplir con los siguientes requisitos:
 3. **Reglas de Creación**:
    - Los diagramas deben ser idénticos en ambas plataformas.
    - Se recomienda utilizar **Mermaid** para facilitar la visualización en GitHub.
-   - Las versiones en **PlantUML** serán empleadas para la página oficial de documentación.
 
 4. **Formato de Archivos**:
    - **PlantUML**: Los diagramas deben ser guardados en archivos con extensión `.puml`.
